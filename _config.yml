@@ -18,12 +18,10 @@ email: contact@lespilotes.com
 description: > # this means to ignore newlines until "baseurl:"
   Auto-école les pilotes.
 address:  Route de l'aéroport YOFF, DAKAT.
-slogan: Créateur de succès
-our_values: Transparence, Excellence, Disponibilité, Simplicité
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://khouleBousso.github.io/lespilotes" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Botilab
-github_username:  Botilab
+url: "https://autoecolelespilotes.github.io/website" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: AutoEcoleLesPilotes
+github_username:  AutoEcoleLesPilotes
 git_repo: lespilotes
 # Build settings
 markdown: kramdown
